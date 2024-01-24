@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+ maxwell    1794    1793 pty0     09:41:45 /usr/bin/bash
+ maxwell    1793       1 ?        09:41:45 /usr/bin/mintty
+ maxwell    1926    1794 pty0     11:57:36 /usr/bin/ps
